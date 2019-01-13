@@ -1,0 +1,17 @@
+Program flow needs to be fixed
+
+Console navigation:
+    - arrow keys to look at different runs (scrolling sorta)
+    - quit button
+    - sub menus
+
+Recording runs to file
+    - simple lines? csv? json?
+    - consider async reading of poe log file and queueing up runs to add
+    - save client.txt location
+
+Graphs! (this might take some time, need to decide on a library)
+    - total runs vs time scale
+    - run average time vs time scale
+    - percentage time running vs idle/selling (run efficiency?)
+    - average runs per hour?
